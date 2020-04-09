@@ -1,0 +1,6 @@
+-Perusahaan memiliki banyak departemen (one to many)
+-setiap departemen hanya memiliki satu manajer dan satu karyawan atau bisa lebih (one to one & one to many)
+-setiap employee bisa mengerjakan satu proyek atau lebih dan setiap proyek bisa dikerjakan satu karyawan atau lebih(many to many)
+-setiap perusahaan memilik beberapa proyek (one to many)
+
+you can acces ==> https://imgur.com/TizHuL0
